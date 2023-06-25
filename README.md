@@ -1,32 +1,31 @@
-# Hi there, I`m Alexey 👋
+# Hi there, I`m Alexey <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
 ### 🔭 About me
 
 
-Я начинающий Python разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь начался с курсов Яндекс Практикума по анализу данных, затем я увлёкся web скраппингом, в данный момент я пробую себя в разработке Telegram ботов.
+I'm a beginner data analyst and Python developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey started with the Yandex Practicum courses on data analysis, and now I'm enthusiastically continuing to learn Python and other technologies. In addition to Python and data analysis, I'm also studying and working with various technologies, including databases, queueing systems, and other tools that can improve data processing and optimize applications.
+___
 
 
-* 🎓 Закончил курс Data Analsys в Яндекс Практикуме в Феврале 2023
+* 💻 Working in IT Consulting
 
-* Изучил основы HTML, CSS, JS для web скраппинга
+* 🎓 Graduaded Data Analysis courses in Yandex Practicum in Feb 2023
 
-* Боты
+* 🦩 I know basics of HTML, CSS and JS for web scrapping
 
-* Изучаю алгоритмы и структуры данных, решаю задачи на Leetcode
+* 🤖 Developing Telegram Bots
 
+* ✅ Studing algorithms and data structures, solving problems on Leetcode
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40alisanskiy-blue.svg)](https://t.me/alisanskiy)
+* 📧 Feel free to connect me here: [![Telegram Badge](https://img.shields.io/badge/-lisanskiyalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alisanskiy) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alekseylisanskiy@gmail.com)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40alisanskiy-blue?logo=telegram)](https://t.me/alisanskiy)
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40alisanskiy-0077B5?logo=telegram&logoColor=white)](https://t.me/alisanskiy)
 
 
 
 ___
 
-### 💻 Технологии:
+### 💻 My Stack:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -37,3 +36,19 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 
 </div>
+
+___
+
+### 🛠 My Tools:
+
+<div>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
+
+___
+### 💻 Leetcode:
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Lisanskiy&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
