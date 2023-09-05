@@ -32,7 +32,7 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
-  <img src="https://cncf-branding.netlify.app/img/projects/nats/icon/color/nats-icon-color.svg" title="NATS" alt="NATS" width="40" height="40"/>&nbsp
+  <!-- <img src="https://cncf-branding.netlify.app/img/projects/nats/icon/color/nats-icon-color.svg" title="NATS" alt="NATS" width="40" height="40"/>&nbsp -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
 
 </div>
